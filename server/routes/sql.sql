@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS admin_panel;
+CREATE DATABASE IF NOT EXISTS admin;
 
-USE admin_panel;
+USE admin;
 
 CREATE TABLE users(
     userid INT(20) NOT NULL AUTO_INCREMENT,
